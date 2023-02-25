@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "Name": "islamharaz24",
+      "Email": "islamharaz@yahoo.com",
+      "Password": "eslam_2030",
+      "id": 1
+    },
+    {
+      "Name": "eslamharaz",
+      "Password": "eslam_1010",
+      "Email": "islamharaz64@gmail.com",
+      "id": 2
+    }
+  ],
+  "locations": [
+    {
+      "Name": "Faheed Resturant",
+      "Phone": 1254846845,
+      "Address": "Elmanzala Elrayah Street",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "Name": "Eltab3e Resturant",
+      "Phone": 1249874587,
+      "Address": "Elamnzala Street Station",
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "Categorires": [
+    {
+      "name": "فطار عائلي",
+      "userId": 1,
+      "locationId": 1,
+      "id": 1
+    },
+    {
+      "name": "afdadfsadf",
+      "userId": 1,
+      "locationId": 2,
+      "id": 2
+    },
+    {
+      "name": "sdfasdfsdf",
+      "userId": 1,
+      "locationId": 2,
+      "id": 3
+    },
+    {
+      "name": "فطار فرد 1",
+      "userId": 1,
+      "locationId": 1,
+      "id": 4
+    },
+    {
+      "name": "غذاء مميز",
+      "userId": 1,
+      "locationId": 1,
+      "id": 5
+    }
+  ],
+  "items": []
+}
